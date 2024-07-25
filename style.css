@@ -180,9 +180,9 @@
             
             .promo__img {
                 /* width: 800px;
-    height: 764px;
-    object-fit: cover;
-    display: flex;*/
+                height: 764px;
+                object-fit: cover;
+                display: flex;*/
                 width: 50%;
             }
             
@@ -220,6 +220,7 @@
             .promo__content {
                 /*width: 425px;*/
                 padding-left: 64px;
+                margin-top: 100px;
             }
             
             .sale {
